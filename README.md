@@ -97,20 +97,16 @@
 <!-- Estadísticas de GitHub -->
 <h3>📊 GitHub Stats</h3>
 
-<p>
-  <a href="https://github.com/melissahm" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=melissahm&show_icons=true&theme=radical"
-      alt="Melissa Huamán's GitHub Stats"
-    />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=melissahm&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    alt="Melissa Huamán's GitHub Stats"
+  />
 </p>
 
-<p>
-  <a href="https://github.com/melissahm" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissahm&layout=compact&theme=radical"
-      alt="Melissa Huamán's Top Languages"
-    />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissahm&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+    alt="Melissa Huamán's Top Languages"
+  />
 </p>
