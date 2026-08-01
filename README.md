@@ -95,18 +95,10 @@
 </p>
 
 <!-- Estadísticas de GitHub -->
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=melissahm&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Melissa Huamán's GitHub Stats"
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=melissahm&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissahm&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Melissa Huamán's Top Languages"
-  />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=melissahm&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=melissahm&theme=radical&hide_border=true&layout=compact)
