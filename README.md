@@ -7,93 +7,110 @@
 
 <!-- Descripción principal -->
 <p>
-Data Scientist 📊 with experience in data analysis, Machine Learning 🤖, and Deep Learning 🧠 using Python 🐍, SQL 🗄️, Scikit-learn 📚, and TensorFlow/Keras ⚡. Hands-on experience in Computer Vision 👁️ and deploying AI applications 🚀 with Streamlit 🌐.
+<p>
+  Data Scientist 📊 with experience in data analysis and in developing
+  Machine Learning 🤖 and Deep Learning 🧠 solutions using Python,
+  SQL, Scikit-learn, and TensorFlow/Keras. Hands-on experience in
+  Computer Vision 👁️, including image classification and segmentation,
+  as well as deploying AI applications with Streamlit 🚀.
+</p>
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-<h3>Programming Languages</h3>
+<h3>💻 Programming Languages</h3>
 <p>
   <a target="_blank" href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a target="_blank" href="https://www.sql.org/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="sql" />
-  </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
 </p>
-<h3>Libraries</h3>
+
+<h3>📊 Data Analysis & Processing</h3>
 <p>
   <a target="_blank" href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
   <a target="_blank" href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a target="_blank" href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+</p>
+
+<h3>🤖 Machine Learning & Deep Learning</h3>
+<p>
+  <a target="_blank" href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   </a>
   <a target="_blank" href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
-  <a target="_blank" href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <a target="_blank" href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   </a>
+
+  <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-6A5ACD?style=for-the-badge" alt="CNN" />
+
+  <img src="https://img.shields.io/badge/U--Net-Image%20Segmentation-008080?style=for-the-badge" alt="U-Net" />
 </p>
-<h3>Databases</h3>
-<p>
-  <a target="_blank" href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  </a>
-  <a target="_blank" href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  </a>
-</p>
-<h3>Data Visualization</h3>
+
+
+<h3>📈 Data Visualization & Applications</h3>
 <p>
   <a target="_blank" href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   </a>
   <a target="_blank" href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-9C1D27?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   </a>
   <a target="_blank" href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B6B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   </a>
-  <a target="_blank" href="https://looker.com/">
-    <img src="https://img.shields.io/badge/Looker-1A3E56?style=for-the-badge&logo=looker&logoColor=white" alt="looker" />
-  </a>
-  <a target="_blank" href="https://plotly.com/">
-    <img src="https://img.shields.io/badge/Plotly-3F4E6F?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" />
+  <a target="_blank" href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a>
 </p>
-<h3>Tools & Development</h3>
+
+<h3>🛠️ Tools & Development</h3>
 <p>
-  <a target="_blank" href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
   <a target="_blank" href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-  <a target="_blank" href="https://docs.github.com/en/rest">
-    <img src="https://img.shields.io/badge/APIs-181717?style=for-the-badge&logo=github&logoColor=white" alt="apis" />
+  <a target="_blank" href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <img src="https://img.shields.io/badge/APIs-Integration-2F80ED?style=for-the-badge" alt="APIs" />
 </p>
 
 <h2>⚡️ Where to find me</h2>
 
 <!-- Redes sociales -->
 <p>
-  <a href="linkedin.com/in/melissa-huamán-39890a120" target="_blank">
+  <a href="https://www.linkedin.com/in/melissa-huam%C3%A1n-39890a120/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <!-- Estadísticas de GitHub -->
-<h3>GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
+
 <p>
   <a href="https://github.com/melissahm" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=cesarseneca&show_icons=true&theme=radical" alt="cesarseneca's GitHub Stats" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=melissahm&show_icons=true&theme=radical"
+      alt="Melissa Huamán's GitHub Stats"
+    />
   </a>
 </p>
+
 <p>
   <a href="https://github.com/melissahm" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarseneca&show_icons=true&theme=radical&locale=en&layout=compact" alt="cesarseneca's Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissahm&layout=compact&theme=radical"
+      alt="Melissa Huamán's Top Languages"
+    />
   </a>
 </p>
