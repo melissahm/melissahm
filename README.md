@@ -89,7 +89,7 @@
 
 <!-- Redes sociales -->
 <p>
-  <a href="https://www.linkedin.com/in/melissa-huam%C3%A1n-39890a120/" target="_blank">
+  <a href="www.linkedin.com/in/melissahuaman" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
